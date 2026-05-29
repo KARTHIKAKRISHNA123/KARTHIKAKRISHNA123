@@ -45,9 +45,10 @@
 | 🎓 **Degree** | B.E. Computer Science & Engineering — Anna University Regional Campus, Tirunelveli **(CGPA: 8.87)** |
 | 🧠 **Building** | **Niranthara** — AI-powered mental health continuity platform (Node.js · FastAPI · PyTorch · Firebase) |
 | 🏆 **Latest Win** | 3rd Prize — IBM Naan Mudhalvan Hackathon 2026 · ₹10,000 |
-| 🌱 **Currently Learning** | AI/ML from scratch|
+| 🌱 **Currently Learning** | AI/ML from scratch  |
+
 | 🏛️ **Recognition** | Top 500 — Niral Thiruvizha 3.0 · ₹15,000 Tamil Nadu Government Pre-Seed Grant |
-| 💡 **SPOC** | 6Solve Labs × Anna University AI-driven Digital Transformation Collaboration |
+| 💡 **SPOC** | 6Solve × Anna University AI-driven Digital Transformation Collaboration |
 | 📫 **Reach me** | karthikakrishna201005@gmail.com |
 
 ---
@@ -217,9 +218,9 @@ I'm a Computer Science undergraduate who builds AI-powered full-stack systems gr
 |---|---|---|
 | 🥉 IBM Naan Mudhalvan Hackathon | 3rd Place · ₹10,000 · Team Leader · IBM Internship Secured | 2026 |
 | 🏛️ Niral Thiruvizha 3.0 | Top 500 Nationally · ₹15,000 Tamil Nadu Government Pre-Seed Grant | 2025–26 |
-| 💼 IBM Internship | Incoming — secured through hackathon excellence | 2026 |
-| 💼 Syntecxhub Internship | Remote Backend Development Intern | 2026 |
-| 🤝 6Solve SPOC | Single Point of Contact — AI Digital Transformation Collaboration | 2026 |
+
+
+| 🤝 6Solve SPOC | Single Point of Contact — AI Digital Transformation Collaboration | 2025 |
 | 📚 Semester 3 | 2nd Rank Topper in Class | 2024 |
 | 🎓 Class 12 | 93% | 2023 |
 | 🎓 Class 10 | 100% | 2021 |
@@ -243,16 +244,7 @@ I'm a Computer Science undergraduate who builds AI-powered full-stack systems gr
 |---|---|
 | 🔥 Problems Solved | **400+** |
 | 📍 Primary Platform | [Take U Forward Plus](https://takeuforward.org/profile/Karthika%20Krishna) |
-| 📖 Sheet Followed | Striver's A2Z SDE Sheet |
-| 🎯 Interview Mode | Zoho-style — C logic in Java syntax, arrays/indexes/pointers only, no Collections |
 
-**Core Patterns Mastered:**
-- ♻️ Recursion & Backtracking
-- 🧩 Dynamic Programming (top-down + bottom-up)
-- 🪟 Sliding Window & Two Pointers
-- 🔗 Linked List & Array manipulation from scratch
-- 🌲 Trees, Graphs, BFS/DFS
-- 💡 Logic-driven — no Java Collections, no shortcut abstractions
 
 ---
 
@@ -272,32 +264,22 @@ I'm a Computer Science undergraduate who builds AI-powered full-stack systems gr
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KARTHIKAKRISHNA123&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KARTHIKAKRISHNA123&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KARTHIKAKRISHNA123&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KARTHIKAKRISHNA123&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHIKAKRISHNA123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=KARTHIKAKRISHNA123&theme=radical&column=6&hide_border=true" alt="Trophies" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KARTHIKAKRISHNA123&bg_color=141321&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true&theme=react" width="100%" alt="Activity Graph" />
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHIKAKRISHNA123&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-&nbsp;&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=KARTHIKAKRISHNA123&theme=radical&no-frame=true&column=4&margin-w=5" height="180" alt="Trophies" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARTHIKAKRISHNA123&bg_color=141321&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" width="95%" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/KARTHIKAKRISHNA123/KARTHIKAKRISHNA123/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div> 
-
+<!-- Snake Animation — enable via GitHub Actions (see companion guide below) -->
+![Snake](https://github.com/KARTHIKAKRISHNA123/KARTHIKAKRISHNA123/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 🔭 Open Source & Contributions
@@ -311,6 +293,19 @@ I'm a Computer Science undergraduate who builds AI-powered full-stack systems gr
 
 > 🤝 Actively looking to contribute to open-source AI/ML and backend projects — reach out!
 
+---
+
+## 🗺️ Future Roadmap
+
+| Goal | Status |
+|---|---|
+| 🚀 Deploy Niranthara v1.0 (full ML pipeline live) | 🔄 In Progress |
+| 🏢 Complete IBM Internship | 📅 Upcoming |
+| 🤖 Ship Tamil NLP model fine-tuned on mental health corpus | 🔄 In Progress |
+| ☁️ Azure / Google Cloud Professional Certification | 📅 Planned |
+| 🤗 Contribute to Hugging Face indic-NLP ecosystem | 📅 Planned |
+| 🏆 Become GDSC Lead — Anna University | 🎯 Target |
+| 💼 Software Engineer @ Zoho / Google | 🎯 Long-term Target |
 
 ---
 
@@ -328,7 +323,12 @@ I'm a Computer Science undergraduate who builds AI-powered full-stack systems gr
 
 ---
 
+## 📝 Writing & Blogs
 
+> ✍️ Coming soon — technical writeups on AI/ML systems, backend architecture, and Tamil NLP.
+> Follow to get notified!
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />
