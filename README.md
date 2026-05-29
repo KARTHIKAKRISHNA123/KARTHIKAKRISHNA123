@@ -279,8 +279,7 @@ I'm a Computer Science undergraduate who builds AI-powered full-stack systems gr
 </p>
 
 <!-- Snake Animation — enable via GitHub Actions (see companion guide below) -->
-<!-- ![Snake](https://github.com/KARTHIKAKRISHNA123/KARTHIKAKRISHNA123/blob/output/github-contribution-grid-snake-dark.svg) -->
-
+![Snake](https://github.com/KARTHIKAKRISHNA123/KARTHIKAKRISHNA123/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 🔭 Open Source & Contributions
