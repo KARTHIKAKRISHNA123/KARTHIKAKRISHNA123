@@ -38,49 +38,54 @@
 ## Tech Stack
 
 <details>
-<summary>🛠️ Languages & Core</summary>
+<summary>Languages & Core</summary>
 <br>
 <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
 </details>
 
 <details>
-<summary>⚙️ Backend & APIs</summary>
+<summary>Backend & APIs</summary>
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,kubernetes&theme=dark" />
 <br><br>
 
 - Auth & Security: JWT, bcrypt, Firebase Auth
-- AI Services: FastAPI, PyTorch, scikit-learn, XGBoost, LangChain
 - Architecture: RESTful API, Modular Backend, Microservices
+- Deployment/MLOps: Docker, Kubernetes, CI/CD
 </details>
 
 <details>
-<summary>🎨 Frontend & State</summary>
-<br>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite&theme=dark" />
-</details>
-
-<details>
-<summary>🗄️ Databases & Cloud</summary>
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,azure,gcp&theme=dark" />
-<br><br>
-
-- Deployment: Render, Vercel, Streamlit Cloud, Hugging Face Spaces
-</details>
-
-<details>
-<summary>🤖 AI/ML Stack</summary>
+<summary>AI/ML & LLM Orchestration</summary>
 <br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 <br><br>
 
 - ML Frameworks: scikit-learn, XGBoost, SHAP, PyTorch LSTM
-- LLMs: Google Gemini API, Gemma, Azure OpenAI
+- LLM Orchestration: LiteLLM, CrewAI (multi-agent pipelines)
+- LLMs & Model Access: Google Gemini API, Groq, OpenRouter, Ollama, Gemma, Azure OpenAI
+- Prompt Engineering
 </details>
 
 <details>
-<summary>🧰 Dev Tools</summary>
+<summary>Frontend & State</summary>
+<br>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite&theme=dark" />
+<br><br>
+
+- Terminal UI: Textual
+</details>
+
+<details>
+<summary>Databases & Cloud</summary>
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,azure,gcp&theme=dark" />
+<br><br>
+
+- Deployment: Render, Vercel, Streamlit Cloud, Hugging Face Spaces & Hub
+</details>
+
+<details>
+<summary>Dev Tools</summary>
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,idea&theme=dark" />
 <br><br>
@@ -111,13 +116,6 @@
 </p>
 
 ![Snake](https://github.com/KARTHIKAKRISHNA123/KARTHIKAKRISHNA123/blob/output/github-contribution-grid-snake-dark.svg)
-
-> **Note:** `github-readme-stats`, `github-profile-trophy`, and `github-readme-activity-graph` all run on shared free Vercel instances that get overwhelmed with traffic from millions of GitHub profiles and go down/rate-limit constantly (this is a widely reported, ongoing issue — see [anuraghazra/github-readme-stats#4748](https://github.com/anuraghazra/github-readme-stats/issues/4748) and [#4658](https://github.com/anuraghazra/github-readme-stats/issues/4658)). If these three cards show as broken images, it isn't your username/config — the shared service itself is down. The permanent fix is to deploy your own free instance and swap the URL's domain to your own:
-> - Stats + Top Languages: [Deploy your own](https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats)
-> - Trophies: [Deploy your own](https://github.com/ryo-ma/github-profile-trophy#how-to-use)
-> - Activity Graph: [Deploy your own](https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-your-own-instance)
->
-> Once deployed, replace `github-readme-stats.vercel.app` / `github-profile-trophy.vercel.app` / `github-readme-activity-graph.vercel.app` above with your own `*.vercel.app` domain — same query params, permanently reliable.
 
 ---
 
