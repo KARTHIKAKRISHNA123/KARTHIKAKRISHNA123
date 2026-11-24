@@ -25,7 +25,7 @@
   <a href="https://leetcode.com/KARTHIKAKRISHNA123">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://takeuforward.org/profile/Karthika%20Krishna">
+  <a href="https://takeuforward.org/profile/karthika_krishna_m">
     <img src="https://img.shields.io/badge/TakeUForward+-FF5733?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://huggingface.co/KarthikaKrishna123">
@@ -97,6 +97,23 @@
 
 ## GitHub Analytics
 
+### Yearly Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6C63FF/KARTHIKAKRISHNA123" alt="GitHub contributions over the past year" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KARTHIKAKRISHNA123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=false&custom_title=Contributions%20This%20Year" alt="GitHub stats this year" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KARTHIKAKRISHNA123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Contributions%20All%20Time" alt="GitHub stats all time" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KARTHIKAKRISHNA123&theme=react-dark&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff" alt="Contribution activity graph" width="95%" />
+</p>
+
+### Streak & Problem Solving
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=KARTHIKAKRISHNA123&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -105,7 +122,9 @@
   <img src="https://leetcard.jacoblin.cool/KARTHIKAKRISHNA123?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
 </p>
 
-![Snake](https://github.com/KARTHIKAKRISHNA123/KARTHIKAKRISHNA123/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KARTHIKAKRISHNA123/KARTHIKAKRISHNA123/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
 
 ---
 
